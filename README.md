@@ -17,5 +17,5 @@ You should create one R script called `run_analysis.R` that does the following.
 - Run the script `run_analysis.R`
 - A file called `tidy_dataset.txt` will be created containing a tidy dataset
 
-A detailed description of the variables in the dataset can be found in the codebook
+A detailed description of the variables in the dataset can be found in the `CodeBook.md`
 
